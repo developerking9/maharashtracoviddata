@@ -2,7 +2,7 @@
   "MaharastraCaseReport": [
     {
         "id": 1,
-      "Name": "Maharastra (महाराष्ट्र)",
+      "Namemh": "Maharastra (महाराष्ट्र)",
       "TotalCasesmh": "450000",
       "TotalDeathsmh": "16000",
       "TotalRecoveredmh": "280900",
